@@ -1,0 +1,12 @@
+# LaTeX compilation files
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+*.toc
+*.bbl
+*.blg
+*.run.xml
+*.bcf
